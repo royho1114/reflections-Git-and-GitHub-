@@ -5,6 +5,10 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	I think it's a median of directory and repository. It helps deciding which
+	files in the directory should be tracked in repository rather than all files
+	in the directory.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
